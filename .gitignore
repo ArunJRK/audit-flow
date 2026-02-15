@@ -1,0 +1,15 @@
+# Audit data (users commit their own)
+.audit/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
