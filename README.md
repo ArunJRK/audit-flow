@@ -1,3 +1,5 @@
+<img width="819" height="819" alt="image" src="https://github.com/user-attachments/assets/db98a268-dead-4236-bae7-0f683bf32530" />
+
 # audit-flow
 
 An [Agent Skill](https://agentskills.io) for thinking about systems before (and after) you build them.
