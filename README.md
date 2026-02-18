@@ -1,7 +1,23 @@
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/db98a268-dead-4236-bae7-0f683bf32530" />
+<p align="center">
+  <img width="160" height="160"
+       src="https://github.com/user-attachments/assets/db98a268-dead-4236-bae7-0f683bf32530" />
+</p>
 
+<h1 align="center">auditflow</h1>
 
-# audit-flow
+<p align="center">
+  Think before you build. Audit after you ship.
+</p>
+
+<p align="center">
+  <a href="https://agentskills.io">
+    <img src="https://img.shields.io/badge/Agent-Skill-blue" />
+  </a>
+  <img src="https://img.shields.io/badge/status-active-success" />
+  <img src="https://img.shields.io/badge/license-MIT-black" />
+  <img src="https://img.shields.io/badge/LLM-ready-purple" />
+</p>
+
 
 An [Agent Skill](https://agentskills.io) for thinking about systems before (and after) you build them.
 
